@@ -1,5 +1,8 @@
 ﻿![](https://javascript30.com/images/JS3-social-share.png)
 
+# What is This Repo?
+Code Exercise for JavaScript 30 Day Challenge
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
