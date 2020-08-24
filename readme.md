@@ -3,6 +3,12 @@
 # What is This Repo?
 Code Exercise for JavaScript 30 Day Challenge
 
+# My Progress
+
+- [ ] Day19
+- [ ] Day20
+- [ ] Day21
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
