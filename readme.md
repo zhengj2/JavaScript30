@@ -8,6 +8,7 @@ Code Exercise for JavaScript 30 Day Challenge
 - [ ] Day19
 - [ ] Day20
 - [ ] Day21
+- [ ] Day23
 
 # JavaScript30
 
